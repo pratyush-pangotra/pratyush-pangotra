@@ -1,21 +1,103 @@
-#  About Me:
-## 👋 Hi, I'm Pratyush Pangotra<br><br>🎓 Electronics & Communication Engineering undergraduate from India with a passion for building impactful software and embedded systems.<br><br>I enjoy solving real-world problems through code and continuously expanding my knowledge across software engineering, artificial intelligence, IoT, and electronics. Whether it's developing full-stack web applications, experimenting with embedded systems, or contributing to open-source projects, I love turning ideas into practical solutions.<br><br>### 🚀 Currently Working On<br><br>* Full-Stack Web Development<br>* Artificial Intelligence & Machine Learning<br>* Embedded Systems & IoT<br>* Open Source Projects<br><br>### 🌱 Currently Learning<br><br>* System Design<br>* DevOps<br>* Scalable Backend Architecture<br>* AI Engineering<br><br>### 🎯 Interests<br><br>* Open Source<br>* Developer Tools<br>* AI Applications<br>* Robotics<br>* Data Science<br>* Electronics<br><br>### 🌐 Find Me Here<br><br>* Portfolio: https://pratyushpangotra.vercel.app<br>* GitHub: https://github.com/pratyush-pangotra<br><br>> *"Build. Learn. Share. Repeat."*<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=200&section=header&text=Pratyush%20Pangotra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20software%20and%20embedded%20systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratyush.pangotra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyush-pangotra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratyushpangotra74@gmail.com) 
+<a href="https://pratyushpangotra.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/pratyush-pangotra">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/pratyush-pangotra">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:pratyushpangotra74@gmail.com">
+  <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pratyush-pangotra&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=pratyush-pangotra&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pratyush-pangotra&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/><br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratyush-pangotra&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=64748B&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Full-Stack+%2B+Embedded+Systems+Developer;Building+AI-driven+products;Open+Source+Contributor" alt="Typing SVG" />
 
----
-[![](https://komarev.com/ghpvc/?username=pratyush-pangotra&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+I work across full-stack development, embedded systems, and applied machine learning, and enjoy taking ideas from prototype to working product.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:0f172a&height=3&width=100%" width="100%"/>
+
+## Currently Working On
+
+- Full-stack web development
+- Artificial intelligence and machine learning
+- Embedded systems and IoT
+- Open source projects
+
+## Currently Learning
+
+- System design
+- DevOps
+- Scalable backend architecture
+- AI engineering
+
+## Areas of Interest
+
+- Open source
+- Developer tools
+- AI applications
+- Robotics
+- Data science
+- Electronics
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:0f172a&height=3&width=100%" width="100%"/>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,flask,fastapi,dotnet,tailwind,wordpress&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,firebase,supabase,vercel,netlify,cloudflare&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,cmake,npm,notion,figma&theme=dark" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:0f172a&height=3&width=100%" width="100%"/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=pratyush-pangotra&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pratyush-pangotra&theme=dracula&hide_border=true&layout=compact&bg_color=00000000" width="30%"/>
+
+<img src="https://streak-stats.demolab.com/?user=pratyush-pangotra&theme=dracula&hide_border=true&background=00000000" width="60%"/>
+
+</div>
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pratyush-pangotra&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:0f172a&height=3&width=100%" width="100%"/>
+
+<div align="center">
+
+<sub>Build. Learn. Share. Repeat.</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pratyush-pangotra&icon=0&color=334155&style=flat-square" alt="Profile views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=100&section=footer" width="100%"/>
