@@ -33,7 +33,7 @@ I work across full-stack development, embedded systems, and applied machine lear
 - Full-stack web development
 - Embedded systems & IoT
 - Applied machine learning
-- Open source projects
+- Open Source projects
 
 </td>
 <td valign="top" width="33%">
